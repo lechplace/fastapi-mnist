@@ -1,0 +1,1 @@
+gcloud config set project szkolenie-docker-01

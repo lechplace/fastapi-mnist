@@ -1,0 +1,1 @@
+uv export --no-hashes --no-emit-project --no-dev -o requirements.txt
